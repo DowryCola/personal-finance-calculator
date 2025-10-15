@@ -20,7 +20,7 @@ This repository contains a simple web-based Personal Finance Calculator built wi
 ## Setup
 No additional setup is required. Simply clone the repository and open `index.html` in a web browser:
 ```bash
-git clone https://github.com/your-username/personal-finance-calculator.git
+git clone https://github.com/DowryCola/personal-finance-calculator.git
 cd personal-finance-calculator
 ```
 
